@@ -1,0 +1,18 @@
+public: recursos estáticos de nuestra web (ej: icono, imágenes, etc)
+
+src: código fuente.
+
+
+- En el archivo index.js es donde se le indica que es lo primero
+que va a cargar y donde se va a cargar. (ReactDOM.render ... || document.getElementById('root'))
+Y esto se encuentra en un div del archivo index.html de la carpeta public.
+
+- El html de React en verdad es jsx.
+
+- Un componente no es más que una función y se puede reutilizar.
+
+- Los parámetros se llaman "props".
+
+
+
+npm start (iniciar el proyecto)
